@@ -18,7 +18,7 @@ export default defineConfig((config) => ({
   },
 
   server: {
-    allowedHosts: 'all', // 👈 Important for Render deployment
+    allowedHosts: 'bolt-diyhigh.onrender.com', // 👈 Important for Render deployment
   },
 
   plugins: [
